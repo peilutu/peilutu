@@ -1,4 +1,10 @@
-## Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=83549C&background=FFFFFF00&width=435&lines=Hi%2C+I'm+peilu+%E2%98%95%EF%B8%8F;Full-stack+web+dev+%F0%9F%92%BB;Welcome+to+my+repo%F0%9F%AB%A7!;Feel+free+to+look+around%F0%9F%8E%B6)](https://git.io/typing-svg)
+
+
+### 🔮 Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,ts,tailwind,bootstrap,nextjs,redux,sass,express,vite,django,mongodb,docker,threejs,figma,git,github,gitlab,npm,pnpm,yarn,cs,unity,blender)](https://skillicons.dev)
+
 
 <!--
 **peilutu/peilutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
